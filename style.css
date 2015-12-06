@@ -1,0 +1,26 @@
+.floating-box {
+    float: left;
+    width: 140px;
+    height: 70px;
+    margin: 10px;
+    border: 3px solid black;
+    display: inline;
+}
+
+.floating-box-number {
+    float: left;
+    width: 140px;
+    height: 70px;
+    margin: 10px;
+    border: 3px solid black;
+    display: inline;
+}
+
+.floating-box-display {
+    float: left;
+    width: 830px;
+    height: 75px;
+    margin: 10px;
+    border: 3px solid black;
+    display: inline;
+}
