@@ -1,4 +1,4 @@
-document.getElementByClass("floating-box-numbers").addEventListener("click");
+//document.getElementByClass("floating-box-numbers").addEventListener("click");
 
 var calculator = (function() {
   var module = {};
